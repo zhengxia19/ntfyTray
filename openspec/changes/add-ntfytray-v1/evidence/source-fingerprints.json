@@ -1,0 +1,94 @@
+[
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\app.manifest",
+    "Hash": "4FD0A055234430723ADEBBDE39619270A43BAF8BB9EFE8602526F12805F55236"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\NotificationProbeContext.cs",
+    "Hash": "FF00D8E39C054618D914330DBDF0911B0901F7BADB75DEBCA27C3D900AB97621"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\NtfyTray.csproj",
+    "Hash": "B0153908D0069C86DB2A165D5A0229D4BD508D4B58E6AF4DE8D3A2212030229F"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\packages.lock.json",
+    "Hash": "E85DBEE646E71E7F221719619BED00164E345D4B8436E0DF96717A569CD9346C"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Program.cs",
+    "Hash": "A92C51C01E440B29126423BB2BE67D1584E0AE9FF5EA12A42D14752CA7EE273B"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Assets\\app.ico",
+    "Hash": "CC7F69EEDC0413A823CBD90661A7184F7802BDBBE2A488FC63E4976854DEF92F"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Configuration\\AppConfig.cs",
+    "Hash": "2CAEC08C3196F27C3F0022A64C76CE6254D5D570CBB45B6874A40EC12B361BC1"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Configuration\\ConfigLoader.cs",
+    "Hash": "CF5886CDC2AC9251BE0493E5E7972C37BF5EAE4454F780D1F3D45BCA9A804A98"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Infrastructure\\RecentMessageIds.cs",
+    "Hash": "3A3711B6F86EBC7E8FF9E279B56905340DB1822A71E5A2FBF5BE4BC8398D3422"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Notifications\\INotificationService.cs",
+    "Hash": "4C0BF27CE41BC4D7781BC098A1C2CFDFA5DC6F231C68023343485EAC106205A0"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Notifications\\NotificationFormatter.cs",
+    "Hash": "5CAD3BF947C6084E06951D15FBB4040138AC3B5D88E60B01FAF037B97BDB08C3"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Ntfy\\NtfyEvent.cs",
+    "Hash": "3612064B094458A08B55AF3C3602B3F3CE28BA2B93BE734802B4DD454FEF2FAB"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\src\\NtfyTray\\Ntfy\\ReconnectPolicy.cs",
+    "Hash": "9413E1713F286FEC573B0FCF2274247524FA98CEF0B9EEA0E6BB7CA627A37C2A"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\tests\\NtfyTray.Tests\\ConfigurationTests.cs",
+    "Hash": "377A52CDF2727A1A42C947EECE8370E2173326C6CEF19E4F93A3CD4A7BE0F478"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\tests\\NtfyTray.Tests\\NotificationFormatterTests.cs",
+    "Hash": "E953F8E1F101E3E2BC14EF7B3EC53F61D18827215C0276E3FC37D20E05C58428"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\tests\\NtfyTray.Tests\\NtfyTray.Tests.csproj",
+    "Hash": "911EFC8B1E5FDDE5B394EA392629C4514A9CE1E5EE26EF9285BFC8283E5A9F89"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\tests\\NtfyTray.Tests\\packages.lock.json",
+    "Hash": "47376070877DA7CB83D90E9A007E57EB91368428C520974DE359CF14970255BE"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\tests\\NtfyTray.Tests\\ProtocolLogicTests.cs",
+    "Hash": "AE184E31E1953D9B36D6E99D2C3EB4295E7077DC60FCB6C62DF0B1625EE259AA"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\NtfyTray.slnx",
+    "Hash": "9E9F28B2A9521C1093BAD644D5C186103CF1651610E5FE140EF44A18DE6B260D"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\global.json",
+    "Hash": "EC14C4CFBC9A90B4C96DD88B4FDF60CACC707C4C70FC1DA4E588EC8CB3541552"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\config.example.yaml",
+    "Hash": "B8546B71BA15E6FD03539E66E6A19A60AEB81BA09C813CC36B48837D6FB48F97"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\connected.png",
+    "Hash": "0A8A2296E48AD09E3A2C15437884F606D0F0329D806A3AC2F030723E4311F4B4"
+  },
+  {
+    "Path": "D:\\Code\\Csharp\\ntfyTray\\disconnected.png",
+    "Hash": "8AFE018A846B44E769D9BAF671028FFDC4210A0477740C00DE8408ABAABCEF93"
+  }
+]

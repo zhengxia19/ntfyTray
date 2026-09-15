@@ -1,0 +1,34 @@
+**/bin/
+**/obj/
+**/config.yaml
+artifacts/
+.artifacts/
+.backups/
+TestResults/
+*.csproj.user
+# Preserve OpenSpec configuration
+!openspec/config.yaml
+
+# Local credentials and signing keys
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.pfx
+*.p12
+*.jks
+*.keystore
+id_rsa
+id_ecdsa
+id_ed25519
+
+# Local IDE state and backups
+.vs/
+*.suo
+*.bak
+
+# Local logs and raw test reports
+*.log
+*.trx

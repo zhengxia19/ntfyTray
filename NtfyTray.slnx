@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NtfyTray/NtfyTray.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NtfyTray.Tests/NtfyTray.Tests.csproj" />
+  </Folder>
+</Solution>

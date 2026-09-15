@@ -1,0 +1,21 @@
+version: 1
+server:
+  url: https://ntfy.example.com
+  token: ""
+subscriptions:
+  - my-topic
+notification:
+  enabled: true
+  default_title: NtfyTray
+  include_topic: true
+connection:
+  connect_timeout_seconds: 15
+  idle_timeout_seconds: 150
+reconnect:
+  initial_delay_seconds: 1
+  max_delay_seconds: 30
+  jitter_ratio: 0.2
+logging:
+  level: Information
+  max_file_size_mb: 5
+  retained_file_count: 14
